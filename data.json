@@ -1,0 +1,21 @@
+[{
+        "ID": 1,
+        "Location": "Foxborough, MA",
+        "Date": "Jul 26, 2018"
+    },
+    {
+        "ID": 2,
+        "Location": "Toronto, ON Canada",
+        "Date": "Aug 3, 2018"
+    },
+    {
+        "ID": 3,
+        "Location": "Los Angeles, CA",
+        "Date": "Aug 8, 2018"
+    },
+    {
+        "ID": 4,
+        "Location": "Brooklyn, NY",
+        "Date": "Aug 13, 2018"
+    }
+]
